@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooneyaike.raise-uav.com/sitemap.xml
